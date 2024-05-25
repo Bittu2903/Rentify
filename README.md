@@ -20,11 +20,8 @@ A full featured real estate website. that let user find properties in the prefer
 
 1. **Clone the project**
 
-```sh
-git clone https://github.com/nimadorostkar/Django-RealEstate.git
-```
 
-2.  **Make sure you are in *Django-RealEstate* folder**
+2.  **Make sure you are in *Django-Rentify* folder**
 
 
 3. **Active virtual environment (env)**
@@ -36,6 +33,7 @@ source env/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
+if any error in installing any package then comment that line from the requirements.txt file.
 
 5. **Run Migrations**
 
@@ -71,5 +69,4 @@ python manage.py createsuperuser
 <img width="960" alt="2" src="https://github.com/Bittu2903/Rentify/assets/56586371/0f8960a0-0756-4933-8e4e-dcab0f898575">
 <img width="960" alt="3" src="https://github.com/Bittu2903/Rentify/assets/56586371/6da229ac-687a-4a23-b6e5-b78eb763a09e">
 
-![Admin](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/3.png)
 
