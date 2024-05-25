@@ -66,9 +66,10 @@ python manage.py createsuperuser
 ### Screenshots
 
 ![Home](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/1.png)
+<img width="960" alt="1" src="https://github.com/Bittu2903/Rentify/assets/56586371/8fb2eecc-b314-49cb-90b4-896530420055">
 
-![Items](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/2.png)
+<img width="960" alt="2" src="https://github.com/Bittu2903/Rentify/assets/56586371/0f8960a0-0756-4933-8e4e-dcab0f898575">
+<img width="960" alt="3" src="https://github.com/Bittu2903/Rentify/assets/56586371/6da229ac-687a-4a23-b6e5-b78eb763a09e">
 
 ![Admin](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/3.png)
 
-![Admin](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/4.png)
