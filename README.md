@@ -69,4 +69,5 @@ python manage.py createsuperuser
 <img width="960" alt="2" src="https://github.com/Bittu2903/Rentify/assets/56586371/0f8960a0-0756-4933-8e4e-dcab0f898575">
 <img width="960" alt="3" src="https://github.com/Bittu2903/Rentify/assets/56586371/6da229ac-687a-4a23-b6e5-b78eb763a09e">
 
+<img width="960" alt="4" src="https://github.com/Bittu2903/Rentify/assets/56586371/62c728f0-e653-4755-b76b-086346a34326">
 
